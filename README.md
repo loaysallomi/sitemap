@@ -2,8 +2,6 @@
 <pre>
 <code>
 Mermaid
-
-
 graph TD
     Home[Home Page]
     Add[Add Task]
